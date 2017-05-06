@@ -1,4 +1,4 @@
-package majipeng.utils;
+package com.majipeng.nettylib.utils;
 
 public class Log {
 	public static void d(String tag, String message) {
